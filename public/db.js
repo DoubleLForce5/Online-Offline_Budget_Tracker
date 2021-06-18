@@ -3,11 +3,11 @@ let db;
 let budgetVersion;
 
 // * Initialize Database 
-const request = indexedDB.open('BudgetDB', budgetVersion || 21);
+const request = indexedDB.open('BudgetDB', 25 || 21);
 
 // * Syncs the database to be the newest version
 request.onupgradeneeded = function (event) {
-
+console.log('event ', event)
   console.log('Upgrade needed in IndexDB');
 
   const {
