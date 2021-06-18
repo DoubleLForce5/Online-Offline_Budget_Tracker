@@ -1,7 +1,7 @@
 # Online/Offline Budget Tracker
 
 ## Description
-The user will be able to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, the total is populated and the database is automatically updated when the application is brought back online.
+This budget tracker application is intended to allow users to track expenses and deposits to their budget with or without an internet connection. 
  
 ## Deployed Site
 https://serene-everglades-24074.herokuapp.com/
@@ -14,7 +14,7 @@ https://serene-everglades-24074.herokuapp.com/
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
 
 ## Usage Instructions
-On page load, the user is presented with a budget tracker. 
+On page load, the user is presented with the budget tracker. 
 Here the user can manually track their budget based on debits/credits to their account. 
 
 <img width="893" alt="Screen Shot 2021-06-18 at 11 45 48 AM" src="https://user-images.githubusercontent.com/73543476/122593089-c6f3c380-d02a-11eb-9e7d-dbe5b1a467af.png">
