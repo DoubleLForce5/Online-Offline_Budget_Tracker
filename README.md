@@ -26,7 +26,7 @@ Upon inspection, the user can see that when the budget tracker is offline the tr
 <img width="992" alt="Screen Shot 2021-06-18 at 11 52 56 AM" src="https://user-images.githubusercontent.com/73543476/122593989-0c64c080-d02c-11eb-9f9b-f7b6502ec7af.png">
 <img width="997" alt="Screen Shot 2021-06-18 at 11 53 06 AM" src="https://user-images.githubusercontent.com/73543476/122593995-1090de00-d02c-11eb-8135-fe84c3e8066f.png">
 
-When brought back online the user can see that the transaction are automatically pushed through in bulk. 
+When brought back online the user can see that the transactions are automatically pushed through in bulk. 
 
 <img width="995" alt="Screen Shot 2021-06-18 at 11 53 30 AM" src="https://user-images.githubusercontent.com/73543476/122594173-49c94e00-d02c-11eb-8644-1883a1b83191.png">
 <img width="995" alt="Screen Shot 2021-06-18 at 11 53 41 AM" src="https://user-images.githubusercontent.com/73543476/122594181-4d5cd500-d02c-11eb-84e4-2b345c47d75d.png">
