@@ -11,7 +11,7 @@ https://serene-everglades-24074.herokuapp.com/
 - Clone this repository and open it within VS Code or any text editor of your choosing.
 - Right-click on the server.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
-- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
+- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the server. 
 
 ## Usage instructions
 (1) On page load, the user is presented with the budget tracker. 
