@@ -3,7 +3,7 @@
 ## Description
 This budget tracker application is intended to allow users to track expenses and deposits to their budget with or without an internet connection. 
  
-## Deployed Site
+## Deployed site
 https://serene-everglades-24074.herokuapp.com/
 
 ## Installation
@@ -13,7 +13,7 @@ https://serene-everglades-24074.herokuapp.com/
 - In your terminal type 'NPM install' and hit enter. 
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
 
-## Usage Instructions
+## Usage instructions
 (1) On page load, the user is presented with the budget tracker. 
 Here the user can manually track their budget based on debits/credits to their account. 
 
