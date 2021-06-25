@@ -17,10 +17,12 @@ https://serene-everglades-24074.herokuapp.com/
 On page load, the user is presented with the budget tracker. 
 Here the user can manually track their budget based on debits/credits to their account. 
 
+
 <img width="893" alt="Screen Shot 2021-06-18 at 11 45 48 AM" src="https://user-images.githubusercontent.com/73543476/122593089-c6f3c380-d02a-11eb-9e7d-dbe5b1a467af.png">
 <img width="892" alt="Screen Shot 2021-06-18 at 11 46 41 AM" src="https://user-images.githubusercontent.com/73543476/122593144-dbd05700-d02a-11eb-9fb6-19795380450c.png">
 
 Upon inspection, the user can see that when the budget tracker is offline the transactions do not go through.
+
 
 <img width="994" alt="Screen Shot 2021-06-18 at 11 51 52 AM" src="https://user-images.githubusercontent.com/73543476/122593967-040c8580-d02c-11eb-87d1-4eec4e28559c.png">
 <img width="992" alt="Screen Shot 2021-06-18 at 11 52 56 AM" src="https://user-images.githubusercontent.com/73543476/122593989-0c64c080-d02c-11eb-9f9b-f7b6502ec7af.png">
@@ -28,10 +30,11 @@ Upon inspection, the user can see that when the budget tracker is offline the tr
 
 When brought back online the user can see that the transactions are automatically pushed through in bulk. 
 
+
 <img width="995" alt="Screen Shot 2021-06-18 at 11 53 30 AM" src="https://user-images.githubusercontent.com/73543476/122594173-49c94e00-d02c-11eb-8644-1883a1b83191.png">
 <img width="995" alt="Screen Shot 2021-06-18 at 11 53 41 AM" src="https://user-images.githubusercontent.com/73543476/122594181-4d5cd500-d02c-11eb-84e4-2b345c47d75d.png">
 
-## Tech Used
+## Tech 
 - Mongoose 
 - MongoDB
 - Morgan
