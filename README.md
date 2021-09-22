@@ -35,6 +35,8 @@ Here the user can manually track their budget based on debits/credits to their a
 <img width="995" alt="Screen Shot 2021-06-18 at 11 53 41 AM" src="https://user-images.githubusercontent.com/73543476/122594181-4d5cd500-d02c-11eb-84e4-2b345c47d75d.png">
 
 ## Tech 
+- CSS
+- HTML
 - Mongoose 
 - MongoDB
 - Morgan
